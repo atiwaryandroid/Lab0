@@ -28,72 +28,28 @@ Tasks:
 - [X] Finish Lab 0
 - [ ] Go Home
 
-a
-a
-a
-aa
+Use `git commit -m "Your Commit Message"` to list all new or modified files that haven't yet been committed.
 
-aa
-a
-a
+This is my Wikipedia Page: [AaryanTheAwesome](https://en.wikipedia.org/wiki/Albert_Einstein)
 
-a
-a
-a
-a
-a
-a
-a
-a
+[The README file](README.md)
 
-a
-a
-a
-a
-a
-a
-a
-a
+This is a picture of me: 
+![Me](tiger.jpg)
 
-a
-a
-a
-a
-a
-a
-a
+Languages I can Speak:
+- Hindi
+- Bhojpuri
+- English
 
-a
-a
-a
-a
-a
-a
-a
-a
+Programming Languages I know
+1. C++
+2. C
+3. Python
 
-aa
-a
-
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
+Tasks:
+- [ ] Finish ROS Training
+- [X] Finish Lab 0
+- [ ] Go Home
 
 [Go back up](#me)
