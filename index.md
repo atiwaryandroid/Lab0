@@ -9,9 +9,10 @@ Use `git commit -m "Your Commit Message"` to list all new or modified files that
 This is my Wikipedia Page: [AaryanTheAwesome](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 [The README file](README.md)
+[Go back up](#me)
 
 This is a picture of me: 
-![Me](https://www.facebook.com/photo/?fbid=489151522575025&set=a.302117241278455)
+![Me](file:///H:/My%20Pictures/Camera%20Roll/Build%20your%20Octocat%20_%20My%20Octocat.html)
 
 Languages I can Speak:
 - Hindi
