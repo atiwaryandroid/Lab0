@@ -10,8 +10,6 @@ This is my Wikipedia Page: [AaryanTheAwesome](https://en.wikipedia.org/wiki/Albe
 
 [The README file](README.md)
 
-[Go back up](#me)
-
 This is a picture of me: 
 ![Me](tiger.jpg)
 
@@ -30,45 +28,72 @@ Tasks:
 - [X] Finish Lab 0
 - [ ] Go Home
 
-Kehne ko Jashn-e-bahara hai
-Ishq yeh dekhke hairaan hai
-Kehne ko Jashn-e-bahara hai
-Ishq yeh dekhke hairaan hai
+a
+a
+a
+aa
 
-Phool se khusboo khafa khafa hai gulshan mein
-Chupa hai koi ranj fiza ki chilman mein
-Sare sehmein nazare hain
-Soye soye vaqt ke dhare hain
-Aur dil mein koi khoye si baatein hain
+aa
+a
+a
 
-Ooooo hooooo…
+a
+a
+a
+a
+a
+a
+a
+a
 
-Kehne ko Jashn-e-bahara hai
-Ishq yeh dekhke hairaan hai
+a
+a
+a
+a
+a
+a
+a
+a
 
-Phool se khusboo khafa khafa hai gulshan mein
-Chupa hai koi ranj fiza ki chilman mein
+a
+a
+a
+a
+a
+a
+a
 
-Kaise kahen kya hai sitam
-Sochte hai ab yeh hum
-Koi kaise kahen woh hai ya nahi humare
+a
+a
+a
+a
+a
+a
+a
+a
 
-Karte to hai saath safar
-Faasle hain phir bhi magar
-Jaise milte nahi kisi dariya ke do kinare
+aa
+a
 
-Pass hain phir bhi paas nahi
-Humko yeh gum raas nahi
-Seeshe ki ek diware hai jaise darmiya
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
 
-Sare sehmein nazare hain
-Soye soye vaqt ke dhare hain
-Aur dil mein koi khoye si baatein hain
+a
+a
 
-Oooo hoooo..
-
-Kehne ko Jashn-e-bahara hai
-Ishq yeh dekhke hairaan hai
-
-Phool se khusboo khafa khafa hai gulshan mein
-Chupa hai koi ranj fiza ki chilman mein
+[Go back up](#me)
